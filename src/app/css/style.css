@@ -1,0 +1,10 @@
+.topNavigation{
+    text-align: right;
+}
+.topNavigation li {
+    display: inline;
+    padding-left: 20px;
+}
+nav ul a{
+    color: #444;
+}
